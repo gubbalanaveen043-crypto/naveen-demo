@@ -1,4 +1,4 @@
 # naveen-demo
 This is my first Git repository
 <br>
-Author : Naveen Kumar
+Author : Naveen (gubbala)
